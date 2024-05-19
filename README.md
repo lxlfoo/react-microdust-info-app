@@ -20,7 +20,7 @@ SPA(Single Page Application)로 같은 화면 안에서 내지역보기, 전체�
 ### <내지역보기>
 선택콤보에서 나의 세부 지역을 선택합니다.
 <p align="left">
-	<img width="425" alt="1" src="https://github.com/lxlfoo/react-microdust-info-app/assets/162573031/c50eec1e-83bb-40f3-ae4d-24ee81983d9a" />
+	<img width="425" alt="1" src="https://github.com/lxlfoo/react-microdust-info-app/assets/162573031/0b02fc31-0b8e-449e-b2e4-1d69d4fe2504">
 </p>
 
 ### <전체보기>
@@ -28,12 +28,12 @@ SPA(Single Page Application)로 같은 화면 안에서 내지역보기, 전체�
 선택콤보에서 다른 시도단위 지역을 선택할 수 있습니다.<br />
 별버튼을 클릭하여 즐겨찾기에 추가하거나 해제할 수 있습니다.
 <p align="left">
-	<img width="425" alt="2" src="https://github.com/lxlfoo/react-microdust-info-app/assets/162573031/a21d1d1b-5ad6-4f74-967b-d590bb394032" />
+	<img width="425" alt="2" src="https://github.com/lxlfoo/react-microdust-info-app/assets/162573031/1011f941-9c6a-4f90-b7e1-877a01479af2">
 </p>
 
 ### <즐겨찾기>
 추가한 즐겨찾기 목록을 보여줍니다.<br />
 즐겨찾기 탭에서도 즐겨찾기를 해제할 수 있습니다.
 <p align="left">
-	<img width="425" alt="3" src="https://github.com/lxlfoo/react-microdust-info-app/assets/162573031/b7af9ebc-e643-4a49-abad-8b43358ec335" />
+	<img width="425" alt="3" src="https://github.com/lxlfoo/react-microdust-info-app/assets/162573031/ce6da795-bd0e-457e-80ce-3e4ac53de276">
 </p>
